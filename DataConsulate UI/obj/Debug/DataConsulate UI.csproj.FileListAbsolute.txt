@@ -1,0 +1,37 @@
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\bin\Debug\DataConsulate UI.exe.config
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\bin\Debug\DataConsulate UI.exe
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\bin\Debug\DataConsulate UI.pdb
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\obj\Debug\dashboard\dashboard.g.cs
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\obj\Debug\shell.g.cs
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\obj\Debug\App.g.cs
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\obj\Debug\DataConsulate UI_MarkupCompile.cache
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\obj\Debug\DataConsulate UI_MarkupCompile.lref
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\obj\Debug\dashboard\dashboard.baml
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\obj\Debug\shell.baml
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\obj\Debug\DataConsulate UI.g.resources
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\obj\Debug\DataConsulate_UI.Properties.Resources.resources
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\obj\Debug\DataConsulate UI.csproj.GenerateResource.cache
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\obj\Debug\DataConsulate UI.csproj.CoreCompileInputs.cache
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\obj\Debug\DataConsulate UI.exe
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\obj\Debug\DataConsulate UI.pdb
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\obj\Debug\contacts\contacts.g.cs
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\obj\Debug\direct-mail\direct-mail.g.cs
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\obj\Debug\fundraising\fundraising.g.cs
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\obj\Debug\reports\reports.g.cs
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\obj\Debug\contacts\contacts.baml
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\obj\Debug\direct-mail\direct-mail.baml
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\obj\Debug\fundraising\fundraising.baml
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\obj\Debug\reports\reports.baml
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\bin\Debug\LiveCharts.dll
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\bin\Debug\LiveCharts.Wpf.dll
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\bin\Debug\MaterialDesignColors.dll
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\bin\Debug\LiveCharts.pdb
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\bin\Debug\LiveCharts.xml
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\bin\Debug\LiveCharts.Wpf.pdb
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\bin\Debug\LiveCharts.Wpf.xml
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\obj\Debug\App.baml
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\obj\Debug\DataConsulate UI.csproj.CopyComplete
+F:\Xampp\htdocs\DataConsulate UI\DataConsulate UI\obj\Debug\DataConsulate UI.csprojAssemblyReference.cache
